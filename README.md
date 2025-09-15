@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-27 problems solved 🚀
+27 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0605-can-place-flowers](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0917-boats-to-save-people) |
 | [2058-concatenation-of-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2058-concatenation-of-array) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0347-top-k-frequent-elements](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sorting
 |  |
 | ------- |
