@@ -1,6 +1,9 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
+        /*
+        * NAIVES SOLUTION, GONNA COMEBACK ON THIS ONE LATER
+        */
         for (int num : nums2) {
             nums1.push_back(num);
         }
