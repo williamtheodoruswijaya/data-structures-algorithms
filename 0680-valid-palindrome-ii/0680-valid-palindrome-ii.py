@@ -1,4 +1,7 @@
 class Solution:
+    '''
+    Solution nonton disini aja: https://youtu.be/wsiG4hidGcg?si=8RSq8zH6iYcFuvhz
+    '''
     def isPalindrome(self, s: str, left: int, right: int) -> bool:
         while left < right:
             if s[left] != s[right]:
