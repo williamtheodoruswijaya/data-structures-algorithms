@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-39 problems solved 🚀
+39 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0347-top-k-frequent-elements](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0605-can-place-flowers) |
+| [0682-baseball-game](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0682-baseball-game) |
 | [0917-boats-to-save-people](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0917-boats-to-save-people) |
 | [1127-last-stone-weight](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1127-last-stone-weight) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0682-baseball-game) |
 | [1708-design-parking-system](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1708-design-parking-system) |
 | [2058-concatenation-of-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
@@ -197,4 +199,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0020-valid-parentheses](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0682-baseball-game](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
