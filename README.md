@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-34 problems solved 🚀
+34 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0917-boats-to-save-people) |
+| [1127-last-stone-weight](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1127-last-stone-weight) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2058-concatenation-of-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2058-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
