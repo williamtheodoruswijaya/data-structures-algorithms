@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-38 problems solved 🚀
+38 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0125-valid-palindrome) |
@@ -194,5 +195,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
