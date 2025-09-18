@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-40 problems solved 🚀
+40 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1708-design-parking-system](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1708-design-parking-system) |
 ## Brainteaser
@@ -199,5 +200,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0020-valid-parentheses](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
