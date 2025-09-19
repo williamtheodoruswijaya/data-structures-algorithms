@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-42 problems solved ð
+43 problems solved 🚀
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
