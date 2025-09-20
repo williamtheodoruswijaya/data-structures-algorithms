@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-44 problems solved 🚀
+44 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0347-top-k-frequent-elements) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0141-linked-list-cycle](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0383-ransom-note) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Tree
 |  |
