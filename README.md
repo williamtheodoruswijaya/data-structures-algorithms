@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-50 problems solved 🚀
+50 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
@@ -235,4 +236,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
