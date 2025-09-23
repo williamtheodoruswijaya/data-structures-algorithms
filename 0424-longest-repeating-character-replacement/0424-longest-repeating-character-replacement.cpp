@@ -24,7 +24,6 @@ public:
             while (left < right && right - left + 1 - maxFreq > k) {
                 maps[s[left] - 'A']--;
                 left++;
-                maxFreq = findMax(maps);
             }
 
             // step 4: update ans to the max length
