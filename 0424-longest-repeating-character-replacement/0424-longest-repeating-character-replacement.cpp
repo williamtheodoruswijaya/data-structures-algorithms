@@ -1,29 +1,30 @@
 class Solution {
 public:
-    int findMax(unordered_map<char, int> maps) {
+    int findMax(vector<int> maps) {
         int max = INT_MIN;
-        for (auto &value : maps) {
-            if (value.second > max) {
-                max = value.second;
+        for (int num : maps) {
+            if (num > max) {
+                max = num;
             }
         }
         return max;
     }
 
     int characterReplacement(string s, int k) {
-        unordered_map<char, int> maps;
+        vector<int> maps(27, 0);
         int left = 0, ans = 0;
         for (int right = 0; right < s.size(); right++) {
             // step 1: add maps
-            maps[s[right]]++;
+            maps[s[right] - 'A']++;
 
             // step 2: find max freq
             int maxFreq = findMax(maps);
 
             // step 3: check if window is valid (if not shrink)
             while (left < right && right - left + 1 - maxFreq > k) {
-                maps[s[left]]--;
+                maps[s[left] - 'A']--;
                 left++;
+                maxFreq = findMax(maps);
             }
 
             // step 4: update ans to the max length
