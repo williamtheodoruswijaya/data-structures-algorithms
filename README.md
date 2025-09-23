@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-54 problems solved 🚀
+54 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0940-fruit-into-baskets](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [1127-last-stone-weight](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1127-last-stone-weight) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2058-concatenation-of-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2058-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
