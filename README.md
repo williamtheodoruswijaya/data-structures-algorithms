@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-62 problems solved 🚀
+62 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0940-fruit-into-baskets](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1127-last-stone-weight) |
+| [1319-unique-number-of-occurrences](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0567-permutation-in-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [1297-maximum-number-of-balloons](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1297-maximum-number-of-balloons) |
+| [1319-unique-number-of-occurrences](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
