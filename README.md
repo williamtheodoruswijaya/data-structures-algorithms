@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-61 problems solved 🚀
+61 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1127-last-stone-weight](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1127-last-stone-weight) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2058-concatenation-of-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2058-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0940-fruit-into-baskets](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Tree
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0392-is-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
 | ------- |
