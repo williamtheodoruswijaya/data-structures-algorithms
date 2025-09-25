@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-64 problems solved 🚀
+64 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2470-removing-stars-from-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/3462-vowels-game-in-a-string) |
 ## Array
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0682-baseball-game](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0682-baseball-game) |
 | [1708-design-parking-system](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1708-design-parking-system) |
 | [2058-concatenation-of-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2058-concatenation-of-array) |
+| [2470-removing-stars-from-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2470-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0496-next-greater-element-i](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0739-daily-temperatures) |
+| [2470-removing-stars-from-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
