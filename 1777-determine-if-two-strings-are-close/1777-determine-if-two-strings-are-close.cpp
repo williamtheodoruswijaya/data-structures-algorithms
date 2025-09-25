@@ -12,17 +12,15 @@ public:
         for (char ch : word2) maps2[ch - 'a']++;
 
         // step 3: compare for each alfabet between maps
+        multiset<int> set1, set2;
         for (int i = 0; i < 27; i++) {
-            cout << "maps1: " << "[" << i << "] " << maps1[i] << endl;
-            cout << "maps2: " << "[" << i << "] " << maps2[i] << endl;
-            cout << "\n";
             if (maps1[i] == 0 && maps2[i] != 0 || maps1[i] != 0 && maps2[i] == 0) return false;
+            else {
+                set1.insert(maps1[i]);
+                set2.insert(maps2[i]);
+            }
         }
-
-        // step 4: count the number of occurance for each maps and check it
-        sort(maps1.begin(), maps1.end());
-        sort(maps2.begin(), maps2.end());
         
-        return maps1 == maps2;
+        return set1 == set2;
     }
 };
