@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-68 problems solved 🚀
+68 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0344-reverse-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0392-is-subsequence](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [1297-maximum-number-of-balloons](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1297-maximum-number-of-balloons) |
