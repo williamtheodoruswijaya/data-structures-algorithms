@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-66 problems solved 🚀
+66 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0345-reverse-vowels-of-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0680-valid-palindrome-ii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0020-valid-parentheses](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0735-asteroid-collision) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0394-decode-string) |
 ## Bit Manipulation
 |  |
 | ------- |
