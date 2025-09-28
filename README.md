@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-70 problems solved 🚀
+70 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0739-daily-temperatures](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0739-daily-temperatures) |
 | [0917-boats-to-save-people](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0940-fruit-into-baskets) |
+| [0983-validate-stack-sequences](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0983-validate-stack-sequences) |
 | [1046-max-consecutive-ones-iii](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1127-last-stone-weight) |
 | [1319-unique-number-of-occurrences](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1319-unique-number-of-occurrences) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0682-baseball-game](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0735-asteroid-collision) |
+| [0983-validate-stack-sequences](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0983-validate-stack-sequences) |
 | [1708-design-parking-system](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1708-design-parking-system) |
 | [2058-concatenation-of-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2058-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2470-removing-stars-from-a-string) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0682-baseball-game](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0739-daily-temperatures) |
+| [0983-validate-stack-sequences](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0983-validate-stack-sequences) |
 | [2470-removing-stars-from-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
