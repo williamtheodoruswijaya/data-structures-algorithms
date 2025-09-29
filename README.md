@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-72 problems solved 🚀
+72 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1798-max-number-of-k-sum-pairs](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0328-odd-even-linked-list](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0735-asteroid-collision](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0739-daily-temperatures) |
 | [0983-validate-stack-sequences](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0983-validate-stack-sequences) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
