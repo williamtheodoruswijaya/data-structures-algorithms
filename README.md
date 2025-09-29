@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-76 problems solved 🚀
+76 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0983-validate-stack-sequences](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0983-validate-stack-sequences) |
 | [1046-max-consecutive-ones-iii](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1127-last-stone-weight) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1528-kids-with-the-greatest-number-of-candies) |
