@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-82 problems solved 🚀
+82 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0392-is-subsequence](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0680-valid-palindrome-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0347-top-k-frequent-elements](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0567-permutation-in-string) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0209-minimum-size-subarray-sum](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0940-fruit-into-baskets) |
