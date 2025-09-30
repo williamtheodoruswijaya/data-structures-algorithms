@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-80 problems solved 🚀
+80 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2058-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0150-evaluate-reverse-polish-notation](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0441-arranging-coins) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3462-vowels-game-in-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/3462-vowels-game-in-a-string) |
 ## Design
 |  |
