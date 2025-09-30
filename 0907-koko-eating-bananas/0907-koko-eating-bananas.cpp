@@ -11,6 +11,7 @@ public:
             int mid = left + (right - left) / 2;
 
             long long int totalSum = 0;
+            // this is the main key for the conditions (take a closer look how you would come up with this solution intuitively)
             for (int pile : piles) {
                 totalSum += ceil((double) pile / (double) mid);
             }
