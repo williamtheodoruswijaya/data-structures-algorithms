@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-81 problems solved 🚀
+81 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0015-3sum](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0141-linked-list-cycle) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0003-longest-substring-without-repeating-characters](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0125-valid-palindrome) |
@@ -326,4 +328,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0268-missing-number) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
