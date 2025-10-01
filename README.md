@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-87 problems solved 🚀
+87 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0680-valid-palindrome-ii](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0965-unique-email-addresses](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0965-unique-email-addresses) |
 | [0983-validate-stack-sequences](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0983-validate-stack-sequences) |
 | [1018-largest-perimeter-triangle](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0347-top-k-frequent-elements](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0917-boats-to-save-people](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
