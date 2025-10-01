@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-85 problems solved 🚀
+85 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0441-arranging-coins) |
 | [0907-koko-eating-bananas](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
@@ -342,4 +343,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
