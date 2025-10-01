@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-83 problems solved 🚀
+83 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0443-string-compression](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0680-valid-palindrome-ii) |
+| [0965-unique-email-addresses](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0965-unique-email-addresses) |
 | [1297-maximum-number-of-balloons](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1297-maximum-number-of-balloons) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1777-determine-if-two-strings-are-close) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0907-koko-eating-bananas](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0940-fruit-into-baskets) |
+| [0965-unique-email-addresses](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0965-unique-email-addresses) |
 | [0983-validate-stack-sequences](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0983-validate-stack-sequences) |
 | [1046-max-consecutive-ones-iii](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1127-last-stone-weight) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0496-next-greater-element-i](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0940-fruit-into-baskets) |
+| [0965-unique-email-addresses](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0965-unique-email-addresses) |
 | [1297-maximum-number-of-balloons](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1392-find-the-difference-of-two-arrays) |
