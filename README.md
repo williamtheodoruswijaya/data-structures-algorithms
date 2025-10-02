@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-89 problems solved 🚀
+89 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1018-largest-perimeter-triangle](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1319-unique-number-of-occurrences) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0540-single-element-in-a-sorted-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Union Find
 |  |
