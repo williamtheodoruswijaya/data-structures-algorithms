@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-90 problems solved 🚀
+90 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0026-remove-duplicates-from-sorted-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0128-longest-consecutive-sequence) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0268-missing-number) |
 ## String Matching
 |  |
@@ -356,4 +358,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0374-guess-number-higher-or-lower) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
