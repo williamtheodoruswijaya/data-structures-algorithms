@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-92 problems solved 🚀
+92 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -364,4 +364,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0078-subsets](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0078-subsets) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
