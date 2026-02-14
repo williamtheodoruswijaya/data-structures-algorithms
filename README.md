@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-97 problems solved 🚀
+97 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0584-find-customer-referee](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1258-article-views-i) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
