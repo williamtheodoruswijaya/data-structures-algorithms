@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-100 problems solved 🚀
+100 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Database
 |  |
 | ------- |
+| [0577-employee-bonus](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1153-product-sales-analysis-i) |
