@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-101 problems solved 🚀
+101 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0424-longest-repeating-character-replacement](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0443-string-compression) |
+| [0535-encode-and-decode-tinyurl](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [0965-unique-email-addresses](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0965-unique-email-addresses) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0438-find-all-anagrams-in-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0496-next-greater-element-i) |
+| [0535-encode-and-decode-tinyurl](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [0965-unique-email-addresses](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0965-unique-email-addresses) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0155-min-stack) |
+| [0535-encode-and-decode-tinyurl](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0535-encode-and-decode-tinyurl) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1708-design-parking-system](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1708-design-parking-system) |
 ## Brainteaser
@@ -376,4 +379,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1908-recyclable-and-low-fat-products) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
