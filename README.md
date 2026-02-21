@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-102 problems solved 🚀
+102 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -383,4 +383,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0535-encode-and-decode-tinyurl) |
+## Depth-First Search
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0871-keys-and-rooms) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0871-keys-and-rooms) |
+## Graph Theory
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
